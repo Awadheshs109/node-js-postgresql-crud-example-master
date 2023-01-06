@@ -1,4 +1,4 @@
-# Node.js PostgreSQL CRUD example with Express Rest APIs
+<!-- # Node.js PostgreSQL CRUD example with Express Rest APIs
 
 Full Article with implementation:
 > [Node.js PostgreSQL CRUD example with Express Rest APIs](https://www.bezkoder.com/node-express-sequelize-postgresql/)
@@ -141,4 +141,4 @@ npm install
 ### Run
 ```
 node server.js
-```
+``` -->
